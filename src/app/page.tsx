@@ -65,7 +65,7 @@ export default function ComingSoonPage() {
           <Image src={Logo} alt="logo" width={500} height={500} />
         </BlurFade> */}
         <GradualSpacing
-          className="font-display text-center text-6xl md:text-8 lg:text-9xl font-bold tracking-[-0.1em] my-5 text-black dark:text-white md:leading-[5rem]"
+          className="font-display text-center text-6xl md:text-8xl lg:text-9xl font-bold tracking-[-0.1em] my-5 text-black dark:text-white md:leading-[5rem]"
           text="Daawat.pk"
         />
         <BlurFade delay={0.25 * 2} inView>
