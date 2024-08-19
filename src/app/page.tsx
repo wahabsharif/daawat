@@ -78,7 +78,7 @@ export default function ComingSoonPage() {
         className="font-display text-center text-4xl font-bold tracking-[-0.1em] my-5 text-black dark:text-white md:text-7xl md:leading-[5rem]"
         text="Coming Soon"
       />
-      <div className="flex justify-center text-center gap-2">
+      <div className="flex text-white justify-center text-center gap-2">
         <div className="bg-black bg-opacity-50 p-2 sm:p-4 rounded-lg">
           <span className="text-lg sm:text-2xl md:text-3xl lg:text-4xl font-bold">
             {days}
